@@ -1,1 +1,1 @@
-This repository contains a landing webpage with was the Task2 of Codsoft internship.
+This repository contains a landing webpage with was the Task1 of Oasis Infobyte internship.
